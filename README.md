@@ -51,19 +51,7 @@ exploring: scalability · SRE / FinOps · architecture design
 
 <br/>
 
-## 📌 Projects
-
-- **[GitHub_Repo_Manager](https://github.com/Narita-1095305/GitHub_Repo_Manager)** — リポジトリ管理ツール `TypeScript`
-- **[realtimechat](https://github.com/Narita-1095305/realtimechat)** — Gin + WebSocket リアルタイムチャット `Go`
-
-<br/>
-
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Narita-1095305&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&hide_title=false" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narita-1095305&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narita-1095305&hide_border=true&theme=tokyonight" alt="streak"/>
